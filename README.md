@@ -12,12 +12,8 @@ I'm a Computer Science graduate building practical skills in DevOps, cloud infra
 - Docker
 - Terraform
 - AWS
-
-### 🌱 Currently Learning
-
 - Jenkins CI/CD
 - Kubernetes
-- Ansible
 
 ### 🚀 Featured Project
 
